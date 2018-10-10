@@ -1,0 +1,24 @@
+<studentsList>
+<student id="1">
+    <certificate>true</certificate>
+    <description>Good job, Greg</description>
+    <first_name>Greg</first_name>
+    <last_name>Dean</last_name>
+    <scores>
+    	<module1>70</module1>
+    	<module2>80</module2>
+    	<module3>90</module3>
+    </scores>
+</student>
+<student id="2">
+    <certificate>true</certificate>
+    <description>Nicely Done</description>
+    <first_name>Wirt</first_name>
+    <last_name>Wood</last_name>
+    <scores>
+	    <module1>80</module1>
+	    <module2>80.2</module2>
+	    <module3>80</module3>
+    </scores>
+</student>
+</studentsList>
